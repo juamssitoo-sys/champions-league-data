@@ -1,0 +1,37 @@
+﻿team_id,team,country,played,won,drawn,lost,goals_for,goals_against,goal_diff,points,position,qualification
+5,Liverpool,Inglaterra,8,7,0,1,17,5,12,21,1,Octavos de Final Directo
+9,Barcelona,España,8,6,1,1,28,13,15,19,2,Octavos de Final Directo
+15,Arsenal,Inglaterra,8,6,1,1,16,3,13,19,3,Octavos de Final Directo
+6,Inter de Milán,Italia,8,6,1,1,11,1,10,19,4,Octavos de Final Directo
+11,Atlético de Madrid,España,8,6,0,2,20,12,8,18,5,Octavos de Final Directo
+10,Bayer Leverkusen,Alemania,8,5,1,2,15,7,8,16,6,Octavos de Final Directo
+24,Lille,Francia,8,5,1,2,17,10,7,16,7,Octavos de Final Directo
+31,Aston Villa,Inglaterra,8,5,1,2,13,6,7,16,8,Octavos de Final Directo
+12,Atalanta,Italia,8,4,3,1,20,6,14,15,9,Play-offs de Dieciseisavos
+7,Borussia Dortmund,Alemania,8,5,0,3,22,12,10,15,10,Play-offs de Dieciseisavos
+1,Real Madrid,España,8,5,0,3,20,12,8,15,11,Play-offs de Dieciseisavos
+3,Bayern Múnich,Alemania,8,5,0,3,20,12,8,15,12,Play-offs de Dieciseisavos
+18,AC Milan,Italia,8,5,0,3,14,11,3,15,13,Play-offs de Dieciseisavos
+21,PSV Eindhoven,Países Bajos,8,4,2,2,16,12,4,14,14,Play-offs de Dieciseisavos
+4,Paris Saint-Germain,Francia,8,4,1,3,14,9,5,13,15,Play-offs de Dieciseisavos
+14,Benfica,Portugal,8,4,1,3,16,12,4,13,16,Play-offs de Dieciseisavos
+29,AS Mónaco,Francia,8,4,1,3,13,13,0,13,17,Play-offs de Dieciseisavos
+36,Brest,Francia,8,4,1,3,10,11,-1,13,18,Play-offs de Dieciseisavos
+19,Feyenoord,Países Bajos,8,4,1,3,18,21,-3,13,19,Play-offs de Dieciseisavos
+13,Juventus,Italia,8,3,3,2,9,7,2,12,20,Play-offs de Dieciseisavos
+27,Celtic,Escocia,8,3,3,2,13,14,-1,12,21,Play-offs de Dieciseisavos
+2,Manchester City,Inglaterra,8,3,2,3,18,14,4,11,22,Play-offs de Dieciseisavos
+20,Sporting CP,Portugal,8,3,2,3,13,12,1,11,23,Play-offs de Dieciseisavos
+16,Club Brujas,Bélgica,8,3,2,3,7,11,-4,11,24,Play-offs de Dieciseisavos
+22,Dinamo Zagreb,Croacia,8,3,2,3,12,19,-7,11,25,Eliminado
+34,Stuttgart,Alemania,8,3,1,4,13,17,-4,10,26,Eliminado
+17,Shakhtar Donetsk,Ucrania,8,2,1,5,8,16,-8,7,27,Eliminado
+32,Bologna,Italia,8,1,3,4,4,9,-5,6,28,Eliminado
+25,Estrella Roja,Serbia,8,2,0,6,13,22,-9,6,29,Eliminado
+35,Sturm Graz,Austria,8,2,0,6,5,14,-9,6,30,Eliminado
+30,Sparta Praga,República Checa,8,1,1,6,7,21,-14,4,31,Eliminado
+8,RB Leipzig,Alemania,8,1,0,7,8,15,-7,3,32,Eliminado
+33,Girona,España,8,1,0,7,5,13,-8,3,33,Eliminado
+23,Red Bull Salzburgo,Austria,8,1,0,7,5,27,-22,3,34,Eliminado
+28,Slovan Bratislava,Eslovaquia,8,0,0,8,7,27,-20,0,35,Eliminado
+26,Young Boys,Suiza,8,0,0,8,3,24,-21,0,36,Eliminado
