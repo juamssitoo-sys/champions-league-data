@@ -1,0 +1,37 @@
+﻿team_id,name,short_name,country,league,pot,stadium,city
+1,Real Madrid,RMA,España,LaLiga,1,Santiago Bernabéu,Madrid
+2,Manchester City,MCI,Inglaterra,Premier League,1,Etihad Stadium,Manchester
+3,Bayern Múnich,BAY,Alemania,Bundesliga,1,Allianz Arena,Múnich
+4,Paris Saint-Germain,PSG,Francia,Ligue 1,1,Parc des Princes,París
+5,Liverpool,LIV,Inglaterra,Premier League,1,Anfield,Liverpool
+6,Inter de Milán,INT,Italia,Serie A,1,San Siro,Milán
+7,Borussia Dortmund,BVB,Alemania,Bundesliga,1,Signal Iduna Park,Dortmund
+8,RB Leipzig,RBL,Alemania,Bundesliga,1,Red Bull Arena,Leipzig
+9,Barcelona,BAR,España,LaLiga,1,Estadi Olímpic Lluís Companys,Barcelona
+10,Bayer Leverkusen,B04,Alemania,Bundesliga,2,BayArena,Leverkusen
+11,Atlético de Madrid,ATM,España,LaLiga,2,Metropolitano,Madrid
+12,Atalanta,ATA,Italia,Serie A,2,Gewiss Stadium,Bérgamo
+13,Juventus,JUV,Italia,Serie A,2,Allianz Stadium,Turín
+14,Benfica,SLB,Portugal,Primeira Liga,2,Estádio da Luz,Lisboa
+15,Arsenal,ARS,Inglaterra,Premier League,2,Emirates Stadium,Londres
+16,Club Brujas,BRU,Bélgica,Pro League,2,Jan Breydel,Brujas
+17,Shakhtar Donetsk,SHK,Ucrania,Premier League Ucraniana,2,Veltins-Arena (neutral),Gelsenkirchen
+18,AC Milan,MIL,Italia,Serie A,2,San Siro,Milán
+19,Feyenoord,FEY,Países Bajos,Eredivisie,3,De Kuip,Róterdam
+20,Sporting CP,SCP,Portugal,Primeira Liga,3,José Alvalade,Lisboa
+21,PSV Eindhoven,PSV,Países Bajos,Eredivisie,3,Philips Stadion,Eindhoven
+22,Dinamo Zagreb,DZG,Croacia,HNL,3,Maksimir,Zagreb
+23,Red Bull Salzburgo,SAL,Austria,Bundesliga Austríaca,3,Red Bull Arena,Salzburgo
+24,Lille,LOSC,Francia,Ligue 1,3,Decathlon Arena,Lille
+25,Estrella Roja,CZV,Serbia,SuperLiga Serbia,3,Rajko Mitić,Belgrado
+26,Young Boys,YB,Suiza,Super League Suiza,3,Wankdorf,Berna
+27,Celtic,CEL,Escocia,Premiership Escocesa,3,Celtic Park,Glasgow
+28,Slovan Bratislava,SLO,Eslovaquia,Superliga Eslovaca,4,Tehelné pole,Bratislava
+29,AS Mónaco,ASM,Francia,Ligue 1,4,Stade Louis II,Mónaco
+30,Sparta Praga,SPA,República Checa,Fortuna Liga,4,epet ARENA,Praga
+31,Aston Villa,AVL,Inglaterra,Premier League,4,Villa Park,Birmingham
+32,Bologna,BOL,Italia,Serie A,4,Renato Dall'Ara,Bolonia
+33,Girona,GIR,España,LaLiga,4,Montilivi,Girona
+34,Stuttgart,VFB,Alemania,Bundesliga,4,MHPArena,Stuttgart
+35,Sturm Graz,STU,Austria,Bundesliga Austríaca,4,Wörthersee Stadion,Klagenfurt
+36,Brest,SB29,Francia,Ligue 1,4,Stade de Roudourou,Guingamp
